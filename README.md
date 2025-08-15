@@ -1,6 +1,6 @@
 # Diagnostic Analysis of Breast Cancer using Machine Learning Algorithms   
               
-Goals of Project:                                                              
+Goals of Project:                                                               
                                      
 * KNN is quite a good classifier but its performance depends on the value of k. It gives poor results for lower values of k and best results as the value of k increases.
 * PCA is more sensitive to SVM than kNN .As the value of Principle Component (PC) is increased, SVM gives better results and accuracy score is more than kNN.
